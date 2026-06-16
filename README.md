@@ -110,6 +110,6 @@ GUI Development
 Threat Assessment
 Pattern Recognition
 Security Automation
-Author
 
+Author
 Sultan Titilayo
